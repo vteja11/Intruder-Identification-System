@@ -1,0 +1,7 @@
+Identifying and catching intruders has become a difficult task as intruders/thieves found intelligent ways to tackle techniques used to catch them
+
+New ways are introduced to identify the intruder and alert owner/administrator. Five different ways to catch intruder/thief via “a message (SMS)”, “WhatsApp message”, “location of intruder”, “an immediate call”, “and Intruder’s image to owner’s /administrator’s WhatsApp”
+
+Mainly discusses, how face recognition is used to detect intruders/thieves. All the familiar and known faces are trained first. If unknown face is detected, then owner/administrator is alerted. Machine learning is used for facial identification. Facial images of familiar persons are captured in every angle, to recognize familiar persons in any angle
+
+The main purpose is to discuss, how to identify the intruder and alert owner/administrator. Intruders are mostly the ones, who doesn’t belong to same locality/doesn’t belong to same institution
