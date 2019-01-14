@@ -5,7 +5,7 @@ Step 1 : Install OpenCV,PIL,selenium,twilio,numpy
 
     we can install all those with just "pip install" command
     
-Step2 : Download and install ChromeDriver
+Step2 : Download and install Chrome Driver
 
 " In the code....We need to change the paths ".
 
